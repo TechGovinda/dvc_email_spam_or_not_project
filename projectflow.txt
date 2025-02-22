@@ -1,7 +1,7 @@
 Building Pipeline:
 1> Create a GitHub repo and clone it in local (Add experiments).
 2> Add src folder along with all components(run them individually).
-3> Add data, models, reports directories to .gitignore file
+3> Add data, models, reports directories to .gitignore file    # we ignore this file on git because it may be a big pkl file or data so it took much time 
 4> Now git add, commit, push
 
 Setting up dcv pipeline (without params)

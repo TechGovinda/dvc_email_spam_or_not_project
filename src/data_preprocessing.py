@@ -57,7 +57,7 @@ def transform_text(text):
 
 def preprocess_df(df, text_column="text", target_column="target"):
     """
-    preprcesses the Dataframe by encoding the target column, removing duplicates and transforming the text column
+    preprocesses the Dataframe by encoding the target column, removing duplicates and transforming the text column
     """
     try:
         logger.debug("starting preprocessing the Dataframe")
